@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+885	838	473419.3	200000	748.3	23	1999	0	HouayHo			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+2
+856.9	858.1	857.6	854.6	852.2	852	851.6	852.6	855.4	858.2	858.9	857.9
+BATHYMETRY PARAMETERS											
+1
+4525.115644	0.021038735	-0.000818827	5.663051366								

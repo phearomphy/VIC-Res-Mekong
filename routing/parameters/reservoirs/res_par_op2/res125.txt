@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+302	296	9047.5	0	18.5	101	2007	0	Dray_HLinh2			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+2
+296.8	296.8	296.7	296.6	296.6	296.2	296.1	296.2	296.3	296.3	296.3	296.5
+BATHYMETRY PARAMETERS											
+1
+10977.02251	0.292726502	-0.079307416	36.88361454								

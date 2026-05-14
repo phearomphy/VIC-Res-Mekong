@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+270	255	125684	1000	35	0.6	1967	0	Lamphraphloeng			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+2
+264.8	264.8	263.9	261.4	260.6	261.4	261.8	260.2	261.7	263.4	264.4	265
+BATHYMETRY PARAMETERS											
+1
+5162.482523	0.025155644	-0.005271639	19.69267919								

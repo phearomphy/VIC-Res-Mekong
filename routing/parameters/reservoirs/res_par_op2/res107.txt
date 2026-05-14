@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+578	554.9643	890834.26	500000	31	367.6	2008	0	Plei_Krong			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+2
+568	567.7	566.8	564.8	564.4	558.3	556	559.1	566.1	566.7	567.4	567.5
+BATHYMETRY PARAMETERS											
+1
+9364.042094	0.005235475	-0.000469057	16.87545805								

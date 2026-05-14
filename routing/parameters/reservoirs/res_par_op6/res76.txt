@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name	
+568	552	186200.3	0	485.6	39.65	2012	0	A_Luoi			
+SEEPAGE	INFILTRATION		
+0.000000	0.000000		
+IRRIGATION		
+0		
+DUMMY		
+HYDROPOWER											
+1											
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY		
+6		
+../parameters/reservoirs/storagedata/storagedata76.txt
+BATHYMETRY PARAMETERS		
+1
+17615.00588	0.086394633	-0.003805105	31.68950317		

@@ -1,0 +1,42 @@
+# Routing main file         
+# NAME OF FLOW DIRECTION FILE         
+../parameters/flowdirection.txt         
+# NAME OF VELOCITY FILE         
+.true.
+../parameters/velocity.txt
+# NAME OF DIFF FILE         
+.true.
+../parameters/diffusivity.txt
+# NAME OF XMASK FILE         
+.false.         
+12500         
+# NAME OF FRACTION FILE         
+.false.         
+1.0         
+# NAME OF STATION FILE         
+../parameters/stations_srp.txt
+# PATH OF INPUT FILES AND PRECISION         
+/home/ubuntu/VICRes-Mekong-v2/runoff/output/fluxes_         
+4         
+# PATH OF OUTPUT FILES         
+../out_op2_main/         
+# RESERVOIR LOCATION         
+../parameters/reservoirlocation_mainstr.txt
+# RESERVOIR PARAMETERS         
+../parameters/reservoirs/res_par_op2/
+# NATURALIZED FLOW
+.false. 
+../parameters/naturalized_flow/
+# YEAR AND MONTH OF MODEL OUTPUT TO ROUTE & ROUTED OUTPUT TO WRITE         
+1981 1 2022 12 
+1981 1 2022 12 
+# NAME OF UNIT HYDROGRAPH FILE         
+../parameters/unit_hydrograph2/
+# Simulation Mode: True: Run Step-by-Step Mode; False: Run all Steps
+.false.
+# Start Day and Current Simulation Day (for STEPBYSTEP Version)
+1981 1 1 1981 1 1
+# Coupler Iteration [When Coupling VICRes with other Models]
+1
+# Write Outputs
+.true.

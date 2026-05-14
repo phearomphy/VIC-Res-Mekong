@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+1170	1146	134970	0	904.1	30.5	2021	0	Upper_Kontum			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+1
+1170	1146	167	320								
+BATHYMETRY PARAMETERS											
+0											
+0	0	0	0								

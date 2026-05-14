@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+459	439	759994	20000	73.9	257.4	2018	0	Nam_Tha1			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+2
+451.1	452.4	452.4	450.9	448.9	448.1	448.9	449.1	449.8	449.9	450.6	451.7
+BATHYMETRY PARAMETERS											
+1
+5046.355908	0.010307281	-0.000709644	11.58821963								

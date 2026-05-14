@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+588	582	9900	0	227.75	3.63	2017	0	Dak_Po_Ne			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+2
+586.3	586.3	586.3	586.2	585.8	584.8	584.9	585.4	585.6	585.4	585.5	585.9
+BATHYMETRY PARAMETERS											
+1
+35784.34103	0.191947317	-0.034356405	60.9048097								

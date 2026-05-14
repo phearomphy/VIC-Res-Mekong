@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name			
+140	134	27087.5	0	12.2	378	2017	0	Xekaman_Sanxay			
+SEEPAGE	INFILTRATION										
+0.000000	0.000000										
+IRRIGATION											
+0											
+DUMMY											
+HYDROPOWER											
+1
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY											
+2
+134.8	135.1	135.2	135.1	135.2	135.1	134.9	134.5	134.7	134.7	134.7	134.6
+BATHYMETRY PARAMETERS											
+1
+1063.659589	0.147494547	-0.011326765	7.821925305								

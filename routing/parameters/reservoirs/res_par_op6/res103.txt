@@ -1,0 +1,17 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign(M3/s)	Year	Sinitial(1000M3)	Name	
+550	531	318506	100000	120.1	62.3	2019	0	Nam_Kong3			
+SEEPAGE	INFILTRATION		
+0.000000	0.000000		
+IRRIGATION		
+0		
+DUMMY		
+HYDROPOWER											
+1											
+ENVIRONMENTAL FLOW											
+0.05											
+OPERATION STRATEGY		
+6		
+../parameters/reservoirs/storagedata/storagedata103.txt
+BATHYMETRY PARAMETERS		
+1
+19924.63203	0.026606983	-0.002353883	37.27243741		
