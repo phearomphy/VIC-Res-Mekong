@@ -14,12 +14,12 @@
 .false.         
 1.0         
 # NAME OF STATION FILE         
-../parameters/stations_srp_latest.txt
+../parameters/stations.txt
 # PATH OF INPUT FILES AND PRECISION         
-/home/ubuntu/VICRes-Irwd/RR_mekong/Output231n/fluxes_         
+../../rainfall_runoff/output/fluxes_         
 4         
 # PATH OF OUTPUT FILES         
-../output_srp_latest/         
+../output/         
 # RESERVOIR LOCATION         
 ../parameters/reservoirlocation.txt
 # RESERVOIR PARAMETERS         
@@ -31,7 +31,7 @@
 1994 1 2022 12 
 1994 1 2022 12 
 # NAME OF UNIT HYDROGRAPH FILE         
-../parameters/unit_hydrograph_latest/
+../parameters/unit_hydrograph/
 # Simulation Mode: True: Run Step-by-Step Mode; False: Run all Steps
 .false.
 # Start Day and Current Simulation Day (for STEPBYSTEP Version)

@@ -1,5 +1,5 @@
 # VIC-Res-Mekong
-This data repository holds VIC and VIC-Res model input/output data for the Mekong River Basin., driven by IMERG v7 rainfall and MERRA-2 temp/wind. The current version builds upon VIC-Res Mekong v2.0 [Link](https://zenodo.org/records/15635798) but with different meteorological forcings, calibrated soil parameters, routing parameters, and simulation period.
+This data repository holds VIC and VIC-Res model input/output data for the Mekong River Basin., driven by IMERG v7 rainfall and MERRA-2 temp/wind. The current version builds upon VIC-Res Mekong v2.0 [Link](https://zenodo.org/records/15635798) but with different meteorological forcings, calibrated soil parameters, and simulation period.
 
 ## Contact
 For questions and feedback related to this repository, please email sophearumphy@gmail.com or sphy@usf.edu (Sophearom Phy). Alternatively, you may reach out to mearias@usf.edu (Mauricio Arias). 
