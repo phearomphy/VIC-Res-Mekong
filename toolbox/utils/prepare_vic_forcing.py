@@ -14,7 +14,7 @@ import pandas as pd
 import os
 
 # File paths
-coordinates_file = "stations_mekong.txt" # Input the text file containing coordinates
+coordinates_file = "grids_mekong.txt" # Input the text file containing coordinates
 data_folder = r""       # Input the folder containing MERRA2 and IMERG data
 output_folder = r""     # Input the output folder
 
